@@ -1,4 +1,4 @@
-![image](/pt2lb.PNG)\
+![image](/img/pt2lb.PNG)\
 Since x<sub>1</sub><sup>2</sup> + x<sub>2</sub><sup>2</sup> = L<sup>2</sup>, \
 Area of stage n square = total area of n+1 squares \
 Total area added each stage = 70368744177664 \
