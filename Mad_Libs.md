@@ -1,4 +1,5 @@
 # Mad Libs
+
 ![image](/img/binwalk.png)
 binwalk the image, and you will see that there is zlin compressed data hidden in the image
 ![image](/img/extract.png)
